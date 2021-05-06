@@ -1,0 +1,11 @@
+The ages of the patients studied in the paper ranged from 21 to 73 and the condition affected men and women at roughly the same rate. While the majority of the patients were aged 44 or over, there were at least 13 cases among young adults and three cases in kids. 
+
+Symptoms of acute transverse myelitis typically include pain, sensory problems, and weakness, as well as bladder and bowel problems. In this study, all of the patients presented with paralysis and a loss of sensation, while medical imaging revealed the presence of spinal cord lesions.
+
+There are a fair number of unknowns when it comes to acute transverse myelitis. As mentioned, the condition involves the inflammation of the spinal cord and the part of the central nervous system that sends impulses from the brain to nerves in the rest of the body. This inflammation can then result in damage to the insulating sheath covering nerve cell fibers, known as myelin.
+
+However, the exact cause of this inflammation remains unclear. In some cases, it can emerge seemingly out of nowhere with no identifiable trigger, but it is also known to be linked to certain immune system disorders and infections, including influenza, Zika, HIV, herpes, mumps, measles, and rubella.
+
+The researchers on the paper at time of writing remain unclear as to what link, if any, exists between COVID-19 and acute transverse myelitis, but they speculate it may have something to do with SARS-CoV-2’s antigens, the part of the virus that sparks an immune response.
+
+"The pathogenesis of ATM [acute transverse myelitis] remains unknown, but it is conceivable that SARS-CoV-2 antigens – perhaps also present in the AZD1222 COVID-19 vaccine or its chimpanzee adenovirus adjuvant – may induce immune mechanisms leading to the myelitis," the study authors write.
